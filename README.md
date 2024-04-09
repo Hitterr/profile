@@ -22,12 +22,6 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Hitter/Hitter/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">🛠 Programming Languages</h3>
 
 ###
