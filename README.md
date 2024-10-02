@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Oussema Jridi <br><br>- 📚 I'm currently a Computer Science Student <br>- ⚡ I'm working on SvelteKIT Application</p>
+<p align="left">I'm Oussema Jridi <br><br>- 📚 I'm currently a Computer Science Student <br>- ⚡ I'm working on Angular / SpringBoot Application</p>
 
 ###
 
